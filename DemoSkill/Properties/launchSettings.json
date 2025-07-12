@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "MySemanticKernelApp": {
+    "DemoSkill": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

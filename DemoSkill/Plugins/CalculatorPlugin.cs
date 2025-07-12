@@ -1,6 +1,6 @@
 using Microsoft.SemanticKernel;
 
-namespace MySemanticKernelApp.Plugins
+namespace DemoSkill.Plugins
 {
     public class CalculatorPlugin
     {

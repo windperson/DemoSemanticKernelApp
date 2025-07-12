@@ -1,7 +1,7 @@
 using Microsoft.SemanticKernel;
-using MySemanticKernelApp.Plugins;
+using DemoSkill.Plugins;
 
-namespace MySemanticKernelApp.Services
+namespace DemoSkill.Services
 {
     public class SemanticKernelService
     {

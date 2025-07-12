@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.SemanticKernel;
-using MySemanticKernelApp.Services;
+using DemoSkill.Services;
 
-namespace MySemanticKernelApp.Pages
+namespace DemoSkill.Pages
 {
     public class IndexModel : PageModel
     {

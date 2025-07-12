@@ -1,5 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
-using MySemanticKernelApp.Services;
+using DemoSkill.Services;
 
 public class Startup
 {
@@ -11,7 +11,6 @@ public class Startup
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
-        // Boilerplate omitted...
         app.UseRouting();
         app.UseEndpoints(endpoints =>
         {
