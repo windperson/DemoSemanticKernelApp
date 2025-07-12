@@ -4,7 +4,7 @@ A sample .NET 8 multi-agent console app using Semantic Kernel architectural patt
 
 [User] <-> [User Agent] <-> [Search Agent] <-> [Booking Agent] <-> [Payment Agent]  
 
-        |<-------------- Shared Memory ---------------------|
+         |<-------------- Shared Memory --------------------->|
 
 ## Project Structure
 
